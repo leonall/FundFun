@@ -21,4 +21,4 @@ python fund_pretty_table.py
 
 3. 截图
 
-![效果图](https://github.com/bbdle/Fund/raw/master/images/shell_tool_screenshot.jpg)
+![效果图](https://raw.githubusercontent.com/leonall/FundFun/master/images/shell_tool_screenshot.jpg)
